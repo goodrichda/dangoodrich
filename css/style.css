@@ -1,0 +1,124 @@
+.navbar-default{
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 5px;
+}
+.navbar-header .navbar-toggle {
+    float:none;
+    color: #89bbd6;
+    margin: 5px;
+}
+.navbar-collapse .navbar-nav{
+    display:inline-block;
+    float: none;
+    vertical-align: middle;
+}
+.navbar-default .navbar-nav > li > a {
+    z-index: 20;
+    color: #89bbd6;
+    font-weight: bold;
+    font-family: 'Georgia', 'serif';
+    font-size: 18px;
+}
+.page-header{
+    border-radius:10px;
+    color: white;
+    font-family: 'Verdana', 'sans-serif';
+    text-align: center;
+    vertical-align: middle;
+    background-color: #89bbd6;
+    margin: 10px;
+    padding: 20px;
+}
+.page-header a{
+    border-radius:10px;
+    color: white;
+    text-decoration: inherit;
+    font-family: 'Verdana', 'sans-serif';
+    text-align: center;
+    vertical-align: middle;
+    background-color: #89bbd6;
+}
+.glyphicon-menu-hamburger{
+    vertical-align: middle;
+}
+.nowrap{
+    white-space:nowrap;
+}
+.menu{
+    color: #89bbd6;
+    font-family: 'Georgia', 'serif';
+    vertical-align: middle;
+}
+.portfolio-thumbnail {
+    background-color: white;
+    border-color: #d2e5ef;
+    border-width: 1px;
+}
+.mapdesc{
+    color: darkslategray;
+    font-style: normal;
+    font-family: 'Georgia', 'serif';
+    vertical-align: middle;
+    text-align:center
+}
+#content{
+    z-index: -1;
+}
+#aboutme{
+    color: #8d8d8d;
+    font-style: normal;
+    font-family: 'Georgia', 'serif';
+    text-align:justify;
+}
+#resbold{
+    color: #8d8d8d;
+    font-weight: bold;
+    font-family: 'Georgia', 'serif';
+    font-size: 16px;
+}
+#contact{
+    color: #8d8d8d;
+    font-weight: bold;
+    font-family: 'Georgia', 'serif';
+    font-size: 12x;
+}
+#porttext{
+    color: #8d8d8d;
+    font-weight:normal;
+    font-family: 'Georgia', 'serif';
+    font-size: 16px;
+    text-align: justify;
+}
+#restext{
+    color: #8d8d8d;
+    font-weight:normal;
+    font-family: 'Georgia', 'serif';
+    font-size: 14px;
+}
+#restext strong{
+    color: #89bbd6;
+    font-weight:bold;
+    font-family: 'Georgia', 'serif';
+    font-size: 14px;
+}
+h3{
+    color: #89bbd6;
+    font-style:'Verdana', 'sans-serif' ;
+    font-family: 'Georgia', 'serif';
+    vertical-align: middle;
+}
+h2{
+    color: #89bbd6;
+    font-style: italic;
+    font-family: 'Georgia', 'serif';
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
+h1 small{
+    color: #d2e5ef;
+    font-style: italic;
+    font-family: 'Georgia', 'serif';
+    vertical-align: middle
+}
